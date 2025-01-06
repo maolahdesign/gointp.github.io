@@ -18,6 +18,8 @@ h1, h2, h3{
 }
 h1{
     font-size: 100px;
+    font-weight: 900;
+    line-height: 300px;
 }
 section:nth-child(1){
 flex-direction: column;
